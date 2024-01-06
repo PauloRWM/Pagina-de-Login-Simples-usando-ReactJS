@@ -13,7 +13,7 @@ const Email = (event) => {
     }
 const Password = (event) => {
     SetPassword(event.target.value)
-    console.log(event.target.value)
+   // console.log(event.target.value)
 }
 
 
